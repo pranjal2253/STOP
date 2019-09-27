@@ -1,0 +1,6 @@
+Python==3.6.4
+Flask==1.1.1
+Werkzeug==0.16.0
+azure-common==1.1.23
+azure.mgmt.compute==8.0.0
+azure.mgmt.resource==5.0.0
